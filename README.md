@@ -8,7 +8,7 @@
 - ⚡ Goal for 2024 ->> to become a skilled software developer expert in diversed skills like frontend technologies: html, css, ReactJS, Streamlit, etc and Backend Frameworks like Django, Flask, Fast, NodeJS, TypeScrpit alongside usie latest trends in market like Generative AI framworks and LLMsand Cloud Services to be excelled as a Fullstack Generative AI CLoud Software Development Engineer.
 - 😎 Fun fact: I love to read books, articles and like to play Cricket.
 
-- **azure css3 django docker firebase flask gcp git html5 kafka kubernetes linux mariadb mssql mysql pandas postgresql postman python redis scikit_learn seaborn sqlite tensorflow**
+- !azure css3 django docker firebase flask gcp git html5 kafka kubernetes linux mariadb mssql mysql pandas postgresql postman python redis scikit_learn seaborn sqlite tensorflow
 
 <!---
 Mohammad-Moiz/Mohammad-Moiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
