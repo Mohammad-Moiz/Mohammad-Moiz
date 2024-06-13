@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad-Moiz,  a Software Engineer proﬁcient in leveraging powerful python frameworks such as Fast, Flask, and Django to build robust APIs and web applications, alongside proﬁciency in data analysis, EDA, ETL pipelines and modern Generative AI tools and frameworks including LangChain, RAG and LLMs. 
-- 🎓 I'm a Graduate of NED University of Engineering and Technology, a reputed University of Karachi, Pakistan in Biomedical Engineering'2022.
+- 🎓 I'm a Graduate of NED University of Engineering and Technology, Karachi, Pakistan in Biomedical Engineering'2022.
 - 👀 I’m interested in leveraging Python Frameworks to build robust web apps, alongside in designing ETL (Extract, Transfrom, Load) Pieplines, Data Analytics, Machine Learning , Generative AI to build AI Chatbots that will make tasks more easier.
 - 🌱 I’m currently learning TypeScropit, NextJS and ReactJS to enhanced my skills to next level and create effective and robust Frontends of Web Applications. Alongside I am exploring Data Cloud Services of Azure, AWS, Google Cloud, etc..
 - 🗣️ I’m looking to collaborate with Open-Source Projects and hackathons for Software Development.
