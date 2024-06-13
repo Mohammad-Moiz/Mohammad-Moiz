@@ -9,6 +9,7 @@
 - ⚡ Goal for 2024 ->> to become a skilled software developer expert in diversed skills like frontend technologies: html, css, ReactJS, Streamlit, etc and Backend Frameworks like Django, Flask, Fast, NodeJS, TypeScrpit alongside usie latest trends in market like Generative AI framworks and LLMsand Cloud Services to be excelled as a Fullstack Generative AI CLoud Software Development Engineer.
 - 😎 Fun fact: I love to read books, articles and like to play Cricket.
 
+- Techologies:
 ![Azure](https://img.shields.io/badge/Azure-0078D7?logo=microsoft-azure&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
@@ -33,7 +34,15 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2C4F7C?logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?logo=python&logoColor=white)
 <!---
 Mohammad-Moiz/Mohammad-Moiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
