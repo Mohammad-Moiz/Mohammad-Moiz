@@ -9,8 +9,6 @@
 - ⚡ Goal for 2024 ->> to become a skilled software developer expert in diversed skills like frontend technologies: html, css, ReactJS, Streamlit, etc and Backend Frameworks like Django, Flask, Fast, NodeJS, TypeScrpit alongside usie latest trends in market like Generative AI framworks and LLMsand Cloud Services to be excelled as a Fullstack Generative AI CLoud Software Development Engineer.
 - 😎 Fun fact: I love to read books, articles and like to play Cricket.
 
-**azure css3 django docker firebase flask gcp git html5 kafka kubernetes linux mariadb mssql mysql pandas postgresql postman python redis scikit_learn seaborn sqlite tensorflow**
-
 ![Azure](https://img.shields.io/badge/Azure-0078D7?logo=microsoft-azure&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
